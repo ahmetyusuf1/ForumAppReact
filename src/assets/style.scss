@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #585757;
+  color: #ffffff;
+}
+
+header {
+  background-color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+
+  a {
+    color: rgb(233, 202, 29);
+    text-decoration: none;
+  }
+
+  .active {
+    display: none;
+  }
+}
+
+.container {
+  width: 70vw;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+
+  .post {
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    .info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      p {
+        color: rgb(233, 202, 29);
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+form {
+  width: 80vw;
+  margin: 50px auto;
+  min-height: 70vh;
+  background-color: #000000;
+  border-radius: 16px;
+  padding: 50px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  h2 {
+    text-align: center;
+  }
+
+  fieldset {
+    border: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    input {
+      padding: 10px 16px;
+      font-size: 18px;
+      font-family: "Roboto", sans-serif;
+      border: none;
+      outline: none;
+    }
+
+    textarea {
+      font-family: "Roboto", sans-serif;
+      font-size: 16px;
+      resize: vertical;
+      min-height: 150px;
+      max-height: 250px;
+      padding: 12px;
+      outline: none;
+    }
+  }
+
+  .button-wrapper {
+    display: flex;
+    justify-content: center;
+
+    button {
+      width: 60%;
+      background-color: rgb(233, 202, 29);
+      border: none;
+      border-radius: 30px;
+      padding: 12px;
+      font-size: 18px;
+      font-weight: 800;
+      cursor: pointer;
+    }
+  }
+}
+
+.modal-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(128, 128, 128, 0.5);
+  padding: 10px;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+
+  .modal {
+    background-color: #ffffff;
+    width: 70%;
+    height: 80%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+    .modal-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      h4 {
+        color: rgb(233, 202, 29);
+      }
+
+      .close {
+        color: rgb(251, 18, 18);
+        cursor: pointer;
+      }
+    }
+  }
+}
