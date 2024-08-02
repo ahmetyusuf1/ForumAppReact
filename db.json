@@ -15,88 +15,25 @@
       "date": "2023-09-11T19:13:21.364Z"
     },
     {
-      "id": "378a0574-a91e-417e-ae41-a301fe1234e0",
-      "date": "2023-09-11T19:13:21.364Z",
-      "title": "React123",
-      "text": "Bunu nasıl çözeriz???",
-      "user": "Ege"
+      "id": "ef3bbbcf-d9a7-4100-bb11-11bf99580070",
+      "date": "2024-08-02T11:20:49.987Z",
+      "user": "Taha",
+      "title": "Javascript",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda incidunt labore accusamus laudantium voluptatum corporis necessitatibus culpa odio, ducimus iste."
     },
     {
-      "id": "ff867aec-1452-4ec5-bb37-75ccd6234fe4",
-      "date": "2023-09-11T19:59:57.523Z",
-      "title": "MVVM Nedir?",
-      "text": "Nasıl oluyor\n",
-      "user": "Taha"
+      "id": "944fd7a4-d3f0-46de-ac28-b813c271a4db",
+      "date": "2024-08-02T11:21:14.393Z",
+      "user": "Metin",
+      "title": "Tailwind CSS",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam, maxime!"
     },
     {
-      "id": "02db8f75-0321-4edb-af18-e5b0783acda6",
-      "date": "2023-09-11T20:00:15.908Z",
-      "title": "React ile proje ",
-      "text": "React ile proje  nasıl geliştirilir????",
-      "user": "Faden"
-    },
-    {
-      "id": "fd0b0ea3-fc16-44dc-9d47-fb299a5a9a0e",
-      "date": "2023-10-13T17:37:38.872Z",
-      "title": "1234",
-      "text": "13123",
-      "user": "Metin"
-    },
-    {
-      "id": "fa216093-0f0e-4d5b-aa24-ff099a0bef00",
-      "date": "2023-10-13T18:57:07.230Z",
-      "user": "Emir",
-      "title": "dedededed",
-      "text": "dededede"
-    },
-    {
-      "id": "bb407a91-6015-438a-b278-2bdcc87f7d07",
-      "date": "2023-10-13T19:06:27.047Z",
-      "user": "Sıla",
-      "title": "asdasdasd",
-      "text": "asdasdasd"
-    },
-    {
-      "id": "6377e70d-2531-47c2-9e22-d4b390066c30",
-      "date": "2023-10-13T19:52:01.633Z",
-      "user": "Hasan",
-      "title": "MVC denem1",
-      "text": "deneme11"
-    },
-    {
-      "id": "fd6cbb5f-7369-42e6-889d-5ee788b3da36",
-      "date": "2023-10-13T19:52:19.984Z",
-      "user": "Hasan",
-      "title": "MVCC",
-      "text": "deneme222"
-    },
-    {
-      "id": "5d78b5c9-8487-4b9b-a2d4-b27cc7fe319d",
-      "date": "2023-10-13T19:52:35.275Z",
-      "user": "Eda",
-      "title": "MVC ",
-      "text": "deneme333"
-    },
-    {
-      "id": "9d010d90-8997-47b2-95bf-8983caa77c8d",
-      "date": "2023-10-18T09:02:16.095Z",
-      "user": "Orhan",
-      "title": "mvc",
-      "text": "react\n"
-    },
-    {
-      "id": "164c2eaf-530d-4ca0-bf67-adaa55e5e3fb",
-      "date": "2023-10-18T09:26:22.177Z",
-      "user": "Enes",
-      "title": "React MVC ",
-      "text": "MVC(Model View Controller)"
-    },
-    {
-      "id": "d51ab78c-d884-4800-bf6b-6d17917bbf14",
-      "date": "2024-06-06T08:38:05.411Z",
+      "id": "6d62aabb-4229-4202-ad61-64fe00aca6ac",
+      "date": "2024-08-02T11:25:19.059Z",
       "user": "Ahmet",
-      "title": "Merhaba",
-      "text": "nadjfhjsdbfıjsbdıfıdsf"
+      "title": "React Native",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, commodi neque sequi repellendus quo facere quidem. Quo nulla dolores quis assumenda aut voluptate."
     }
   ]
 }
