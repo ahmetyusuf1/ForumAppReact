@@ -1,6 +1,6 @@
 <h1>React Forum App MVC</h1>
 
-<p>forum app<p>
+<p>This project is a forum application developed with React. Users can view and add posts. Additionally, when users click on the posts, a popup window may appear where they can see the details.<p>
 
 <h2>Used Technologies</h2>
 
